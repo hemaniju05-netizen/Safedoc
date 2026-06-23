@@ -116,7 +116,9 @@ safedoc/
 ---
 
 ## 🖼 Screenshots
-
+   ![Landing Page](landing.png)
+   ![Customer Dashboard](customer.png)
+   ![Map](map.png)
 
 ---
 
