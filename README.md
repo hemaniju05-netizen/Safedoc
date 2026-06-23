@@ -89,7 +89,7 @@ safedoc/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/safedoc.git
+   git clone https://github.com/hemaniju05-netizen/safedoc.git
    ```
 
 2. **Move to your server's web root**
