@@ -117,7 +117,6 @@ safedoc/
 
 ## 🖼 Screenshots
 
-> *(Add screenshots of the landing page, customer dashboard, and map here)*
 
 ---
 
@@ -128,6 +127,12 @@ safedoc/
 - **Institution:** Viswajyothi College of Engineering & Technology, Vazhakulam
 - **Year:** 2025–26
 
+## 👩‍💻 Developed By
+
+- Adhitya Biju
+- Annmary Cyriac
+- Hema Niju
+- Shelna Subash
 ---
 
 ## 📄 License
